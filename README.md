@@ -1,14 +1,8 @@
 # EvoPatient
-The code repository for our paper [LLMs Can Simulate Standardized Patients via Agent Coevolution](https://arxiv.org/abs/2412.11716). We are currently in the process of preparing the data and code for release.
+The official repository for our paper [LLMs Can Simulate Standardized Patients via Agent Coevolution](https://arxiv.org/abs/2412.11716). We are currently in the process of preparing our system for release.
 
 ## 🎥 Demo Video
-
-<div align="center">
-  <video width="800" controls>
-    <source src="assets/demo_video.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
+https://github.com/user-attachments/assets/7a433d03-5f9b-4ada-a491-7c6539cad07e
 
 *EvoPatient system demonstration - showing standardized patient simulation through agent coevolution*
 
