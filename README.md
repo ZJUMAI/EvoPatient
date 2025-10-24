@@ -181,4 +181,4 @@ https://github.com/user-attachments/assets/7a433d03-5f9b-4ada-a491-7c6539cad07e
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the Apache 2.0 License, This license permits the use, modification, and distribution of the code, subject to certain conditions outlined in the Apache 2.0 License.
