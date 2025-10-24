@@ -172,7 +172,7 @@ https://github.com/user-attachments/assets/7a433d03-5f9b-4ada-a491-7c6539cad07e
 ```
 @inproceedings{du-etal-2025-llms,
     title = {LLMs Can Simulate Standardized Patients via Agent Coevolution},
-    author={Du, Zhuoyun and Qian, Chen and Liu, Wei and Xie, Zihao and Wang, Yifei and Qiu, Rennai and Dang, Yufan and Chen, Weize and Yang, Cheng and Tian, Ye and others},
+    author= {Du, Zhuoyun and Zheng, Lujie and Hu, Renjun and Xu, Yuyang and Li, Xiawei and Sun, Ying and Chen, Wei and Wu, Jian and Cai, Haolei and Ying, Haohao},
     booktitle = {Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)}
     pages = {17278--17306},
     year = {2025},
