@@ -43,11 +43,6 @@ This project implements a sophisticated multi-agent system that simulates realis
 - Context-aware information retrieval for accurate medical responses
 - Dynamic information fetching based on current diagnostic needs
 
-### Evaluation System
-- Automated assessment of response quality and relevance
-- Metrics for faithfulness, context relevance, and human-likeness
-- Performance tracking and analysis tools
-
 ## System Architecture
 
 ```mermaid
@@ -77,10 +72,6 @@ graph TD
 ### 3. RAG System (`RAG/`)
 - Retrieves relevant medical information for accurate responses
 - Supports context-aware information retrieval
-
-### 4. Evaluation Framework (`make_task/`)
-- Assesses response quality using multiple metrics
-- Provides quantitative analysis of agent performance
 
 ## Getting Started
 
