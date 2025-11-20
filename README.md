@@ -122,7 +122,6 @@ Simulated-patient/
 │   ├── simulated_patient/   # Patient and doctor agents
 │   └── Prompt/              # LLM prompting templates
 ├── RAG/                     # Retrieval-augmented generation
-├── make_task/               # Evaluation and analysis
 └── run.py                   # Main execution script
 ```
 
